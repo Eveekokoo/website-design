@@ -1,0 +1,53 @@
+#header {
+   background-color: blanchedalmond;
+   color: rgb(155, 82, 22);
+   text-align: center;
+   padding: 10px;
+}
+   background-color: blanchedalmond;
+   color: rgb(167, 73, 73);
+body {
+   background-color: rgb(214, 148, 104);
+  font-family: Arial, Helvetica, sans-serif;
+}
+a {
+   text-decoration: none;
+   color: blanchedalmond;
+}
+h1, h2, h3 {
+   margin: 0;
+}
+#container {
+   background-color: rgb(92, 53, 61);
+   color: antiquewhite;
+   width: 800px;
+   margin-left: auto;
+   margin-right: auto;
+}
+#content {
+   padding-left: 10px;
+   
+}
+#nav {
+   width: 180px;
+   float: left;
+}
+
+#nav ul{
+   list-style-type: none;
+}
+#nav .selected {
+   font-weight: bold;
+}
+
+#main {
+   width: 600px;
+   float: right;
+}
+#footer {
+   clear: both;
+   padding: 10px;
+   background-color: bisque;
+   color: rgb(155, 82, 22);
+   text-align: right;
+}
